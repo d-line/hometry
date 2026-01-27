@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "rodrigovallades.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "wallabyjs.console-ninja",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+  ],
+  "unwantedRecommendations": []
+}
